@@ -39,7 +39,7 @@
 <body>
     <div class="test">
 <div class="limiter" id="login">
-    <div class="container-login100" style="background-image:url(https://ad962edbae8ba7b03b7f-d10007df79b5b7a4e475a291e50a08cf.ssl.cf3.rackcdn.com/2176/ouvrir-une-librairie-de-livres-d-occasion.jpg)">
+    <div class="container-login100" style="background-image:url()">
         <div class="container">
             <div class="row">
                 <div class="col-md-6"></div>

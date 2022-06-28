@@ -283,4 +283,4 @@ $decimal = substr($decimal2, 2);
   
   window.print();
 </script>
-@endsection
+@endsectionLO
